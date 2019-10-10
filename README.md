@@ -1,0 +1,1 @@
+# aspnet-localization-example
